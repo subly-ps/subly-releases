@@ -46,8 +46,16 @@ Apple ID miễn phí dùng được **7 ngày** (hết hạn thì ký lại). L�
 ## Cài trên macOS
 
 1. Giải nén file `.zip`, kéo **Subly.app** vào thư mục **Applications**.
-2. Lần đầu mở: **chuột phải vào app → Mở → Mở** (app ký bằng chứng chỉ riêng, chưa notarize nên macOS sẽ cảnh báo lần đầu — đây là bình thường).
-3. Khi app hỏi quyền **Ghi màn hình**, hãy cho phép rồi mở lại app.
+2. Mở **Terminal** (Launchpad → Khác → Terminal), dán lệnh dưới rồi bấm Enter:
+
+   ```sh
+   xattr -dr com.apple.quarantine /Applications/Subly.app
+   ```
+
+   App ký bằng chứng chỉ riêng, chưa notarize nên macOS chặn với thông báo *"không thể mở"* hoặc *"đã bị hỏng"* — lệnh này gỡ cờ chặn đó. Vẫn không mở được thì chạy `xattr -cr /Applications/Subly.app`.
+   Không muốn dùng Terminal: mở app một lần (bị chặn), rồi vào **Cài đặt hệ thống → Quyền riêng tư & Bảo mật**, kéo xuống bấm **Vẫn mở**.
+3. Mở Subly. Khi app hỏi quyền **Ghi màn hình**, hãy cho phép, rồi thoát hẳn app và mở lại.
+4. Các bản sau app tự cập nhật trong chính app.
 
 ## Hỗ trợ
 
