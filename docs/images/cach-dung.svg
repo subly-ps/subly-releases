@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 330" width="960" height="330" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#5b6cf0"/><stop offset="1" stop-color="#3fb59f"/></linearGradient>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#9aa3b2"/></marker>
+  </defs>
+  <rect x="0" y="0" width="960" height="330" rx="18" fill="#ffffff"/>
+  <rect x="0.5" y="0.5" width="959" height="329" rx="18" fill="none" stroke="#e3e6ec"/>
+
+  <!-- Bước 1 -->
+  <g transform="translate(30,26)">
+    <rect width="260" height="278" rx="14" fill="#f5f7fb"/>
+    <circle cx="30" cy="30" r="16" fill="url(#g)"/><text x="30" y="36" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">1</text>
+    <text x="56" y="36" font-size="18" font-weight="700" fill="#1b2130">Cài app Subly</text>
+    <!-- laptop -->
+    <rect x="40" y="78" width="120" height="78" rx="6" fill="#1b2130"/><rect x="47" y="85" width="106" height="64" rx="3" fill="url(#g)"/>
+    <rect x="28" y="156" width="144" height="10" rx="4" fill="#9aa3b2"/>
+    <text x="100" y="123" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Subly</text>
+    <!-- phone -->
+    <rect x="182" y="88" width="50" height="92" rx="9" fill="#1b2130"/><rect x="187" y="96" width="40" height="76" rx="5" fill="url(#g)"/>
+    <text x="207" y="139" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">Subly</text>
+    <text x="130" y="220" text-anchor="middle" font-size="14.5" fill="#4a5263">Trên điện thoại (Android, iPhone)</text>
+    <text x="130" y="242" text-anchor="middle" font-size="14.5" fill="#4a5263">hoặc máy tính (Windows, Mac)</text>
+  </g>
+  <line x1="296" y1="165" x2="342" y2="165" stroke="#9aa3b2" stroke-width="3" marker-end="url(#ar)"/>
+
+  <!-- Bước 2 -->
+  <g transform="translate(350,26)">
+    <rect width="260" height="278" rx="14" fill="#f5f7fb"/>
+    <circle cx="30" cy="30" r="16" fill="url(#g)"/><text x="30" y="36" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">2</text>
+    <text x="56" y="36" font-size="18" font-weight="700" fill="#1b2130">Cài app lên TV</text>
+    <!-- phone with button -->
+    <rect x="24" y="66" width="92" height="150" rx="13" fill="#1b2130"/><rect x="30" y="74" width="80" height="134" rx="8" fill="#2a2f3a"/>
+    <rect x="38" y="84" width="64" height="8" rx="3" fill="#4a5263"/><rect x="38" y="98" width="48" height="8" rx="3" fill="#4a5263"/>
+    <rect x="36" y="176" width="68" height="22" rx="7" fill="url(#g)"/>
+    <text x="70" y="191" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">Cài lên TV</text>
+    <line x1="122" y1="138" x2="146" y2="138" stroke="#9aa3b2" stroke-width="2.5" stroke-dasharray="4 4" marker-end="url(#ar)"/>
+    <!-- TV -->
+    <rect x="150" y="96" width="96" height="62" rx="5" fill="#1b2130"/><rect x="155" y="101" width="86" height="52" rx="2" fill="#39414f"/>
+    <text x="198" y="132" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">SublyTV</text>
+    <rect x="190" y="158" width="16" height="10" fill="#1b2130"/><rect x="176" y="168" width="44" height="5" rx="2" fill="#1b2130"/>
+    <text x="130" y="242" text-anchor="middle" font-size="14.5" fill="#4a5263">Bấm nút TV → Cài lên TV</text>
+    <text x="130" y="264" text-anchor="middle" font-size="14.5" fill="#4a5263">TV và app chung mạng Wi-Fi</text>
+  </g>
+  <line x1="616" y1="165" x2="662" y2="165" stroke="#9aa3b2" stroke-width="3" marker-end="url(#ar)"/>
+
+  <!-- Bước 3 -->
+  <g transform="translate(670,26)">
+    <rect width="260" height="278" rx="14" fill="#f5f7fb"/>
+    <circle cx="30" cy="30" r="16" fill="url(#g)"/><text x="30" y="36" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">3</text>
+    <text x="56" y="36" font-size="18" font-weight="700" fill="#1b2130">Chơi game</text>
+    <rect x="22" y="70" width="216" height="128" rx="7" fill="#1b2130"/>
+    <rect x="28" y="76" width="204" height="116" rx="3" fill="#3b5068"/>
+    <path d="M28 160 L80 120 L120 150 L170 105 L232 150 L232 192 L28 192 z" fill="#2c3d52"/>
+    <rect x="44" y="164" width="172" height="20" rx="4" fill="#000" fill-opacity="0.65"/>
+    <text x="130" y="178" text-anchor="middle" font-size="11.5" fill="#fff">Cậu đến muộn rồi đấy!</text>
+    <rect x="120" y="198" width="20" height="12" fill="#1b2130"/><rect x="100" y="210" width="60" height="6" rx="3" fill="#1b2130"/>
+    <text x="130" y="242" text-anchor="middle" font-size="14.5" fill="#4a5263">Phụ đề tiếng Việt hiện</text>
+    <text x="130" y="264" text-anchor="middle" font-size="14.5" fill="#4a5263">ngay trên hình game</text>
+  </g>
+</svg>
