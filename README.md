@@ -19,7 +19,7 @@ Nhiều game có sẵn bản việt hóa của cộng đồng. Câu thoại có 
 <td width="50%" valign="top">
 
 ### 💰 Tiết kiệm token
-Câu nào đã dịch rồi thì dùng lại, câu trùng lặp hay câu không cần dịch thì bỏ qua. Chỉ gửi AI những câu thật sự cần, dùng được cả **key Gemini miễn phí**.
+Câu nào đã dịch rồi thì dùng lại, câu trùng lặp hay câu không cần dịch thì bỏ qua. Chỉ gửi AI những câu thật sự cần, dùng được cả **key Gemini miễn phí** ([cách lấy key](#3-lấy-key-gemini-miễn-phí-khuyến-nghị)).
 
 </td>
 </tr>
@@ -90,7 +90,17 @@ TV và điện thoại / máy tính phải **chung mạng Wi-Fi**. Trong Subly b
 
 Trong Subly bấm **Thêm máy PX5** và đăng ký bằng **tài khoản phụ**: trên máy PX5 đăng nhập tài khoản phụ, vào **Settings → System → Remote Play → Link Device** lấy **mã PIN**, rồi nhập mã PIN và PSN Account ID của tài khoản phụ vào app. Chỉ làm một lần.
 
-### 3. Chơi
+### 3. Lấy key Gemini miễn phí (khuyến nghị)
+
+Key Gemini giúp dịch hay và đúng ngữ cảnh hơn, gói miễn phí đủ dùng khi chơi game.
+
+1. Mở **[aistudio.google.com/apikey](https://aistudio.google.com/apikey)**, đăng nhập tài khoản Google.
+2. Bấm **Create API key** (Tạo khoá API), rồi bấm **Copy** để sao chép key (dãy chữ bắt đầu bằng `AIza…`).
+3. Trong Subly vào **⚙ Cài đặt → AI**, dán key vào ô **Gemini**.
+
+> Không có key app vẫn dịch được bằng Google dịch, nhưng câu văn kém tự nhiên hơn.
+
+### 4. Chơi
 
 1. Chọn game trong danh sách game mẫu (hoặc nhập tên game).
 2. Bấm **Kết nối & bắt đầu**.
