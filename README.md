@@ -2,6 +2,10 @@
 
 Chơi game trên máy **PX5**, phụ đề được dịch sang tiếng Việt và hiện **ngay trên TV**. App miễn phí.
 
+<p align="center"><a href="https://www.facebook.com/profile.php?id=61596415627752"><img src="docs/images/facebook.svg" alt="Theo dõi page Facebook Subly" width="560"></a></p>
+
+<h3 align="center">👉 <a href="https://www.facebook.com/profile.php?id=61596415627752">Page Facebook: facebook.com/profile.php?id=61596415627752</a></h3>
+
 <p align="center"><img src="docs/images/cach-dung.svg" alt="Cài app Subly → Cài app lên TV → Chơi game có phụ đề tiếng Việt" width="900"></p>
 
 ## Tải về
@@ -61,4 +65,4 @@ Trong Subly bấm **Thêm máy PX5** và đăng ký bằng **tài khoản phụ*
 
 ## Hỗ trợ
 
-Cần hỗ trợ cài đặt, liên hệ Telegram **[@subly_ps](https://t.me/subly_ps)**. Các bản cũ: xem mục [Releases](https://github.com/subly-ps/subly-releases/releases).
+Cần hỗ trợ cài đặt: nhắn tin **[page Facebook Subly](https://www.facebook.com/profile.php?id=61596415627752)** hoặc Telegram **[@subly_ps](https://t.me/subly_ps)**. Các bản cũ: xem mục [Releases](https://github.com/subly-ps/subly-releases/releases).
