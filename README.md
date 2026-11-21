@@ -1,62 +1,64 @@
-# Subly — ScreenTranslator
+# Subly — dịch phụ đề game sang tiếng Việt
 
-Dịch phụ đề game sang tiếng Việt theo thời gian thực, đọc thành giọng nói và dịch cả màn hình.
-Hoạt động với **PS5** (qua Remote Play) hoặc bất kỳ cửa sổ nào trên máy Mac. Có app cho **điện thoại** (Android, iPhone/iPad) và máy tính (macOS).
+Chơi game trên máy **PX5**, phụ đề được dịch sang tiếng Việt và hiện **ngay trên TV**. App miễn phí.
 
-Đây là trang **tải bản cài đặt**. Mã nguồn không công khai.
+<p align="center"><img src="docs/images/cach-dung.svg" alt="Cài app Subly → Cài app lên TV → Chơi game có phụ đề tiếng Việt" width="900"></p>
 
 ## Tải về
 
-Vào mục **Releases** (cột bên phải) và tải bản mới nhất cho thiết bị của bạn:
+Chọn bản cho thiết bị của bạn. Chỉ cần cài **một** trong các bản dưới.
 
-| Thiết bị | File | Ghi chú |
+| Thiết bị | Tải về | Lưu ý khi cài |
 |---|---|---|
-| Android | `Subly-android-*.apk` | Cài trực tiếp |
-| iPhone / iPad | `Subly-ios-*-unsigned.ipa` | File chưa ký, tự ký bằng Apple ID (Sideloadly/AltStore/ESign) |
-| macOS | `Subly-macOS-*.zip` | Kéo vào Applications |
+| 🤖 **Android** | [**Tải Subly-android-v0.1.18.apk**](https://github.com/subly-ps/subly-releases/releases/download/android-v0.1.18/Subly-android-v0.1.18.apk) | Mở file, cho phép **cài từ nguồn này** → Cài đặt |
+| 📱 **iPhone / iPad** | [**Tải Subly-ios-v0.1.19-unsigned.ipa**](https://github.com/subly-ps/subly-releases/releases/download/ios-v0.1.19/Subly-ios-v0.1.19-unsigned.ipa) | Cài bằng **[Sideloadly](https://sideloadly.io)**, xem [bên dưới](#iphone--ipad) |
+| 🍎 **Mac** | [**Tải Subly-macOS-v0.3.26.zip**](https://github.com/subly-ps/subly-releases/releases/download/mac-v0.3.26/Subly-macOS-v0.3.26.zip) | Phải chạy **1 lệnh Terminal**, xem [bên dưới](#mac) |
+| 🪟 **Windows** | [**Tải Subly-Windows-v0.3.15.zip**](https://github.com/subly-ps/subly-releases/releases/download/win-v0.3.15/Subly-Windows-v0.3.15.zip) | Giải nén, mở `Subly.exe`. SmartScreen chặn thì bấm **More info → Run anyway** |
 
----
+Máy tính (Mac, Windows) tự cập nhật bản mới trong app. Điện thoại: app báo có bản mới thì tải lại ở trang này.
 
-## Cài trên điện thoại
+### iPhone / iPad
 
-### Android (APK)
+File `.ipa` chưa ký, cần ký bằng Apple ID của bạn để cài:
 
-1. Tải file `Subly-android-*.apk`.
-2. Mở file; nếu máy hỏi, bật **Cho phép cài từ nguồn này**.
-3. Bấm **Cài đặt** → **Mở**. (Cài đè được lên bản cũ, không cần gỡ.)
+1. Cài **[Sideloadly](https://sideloadly.io)** trên máy tính (Windows hoặc Mac), cắm iPhone vào máy tính.
+2. Kéo file `.ipa` vào Sideloadly, nhập Apple ID → **Start**.
+3. Trên iPhone: **Cài đặt → Cài đặt chung → VPN & Quản lý thiết bị** → tin cậy Apple ID vừa dùng.
 
-### iPhone / iPad (IPA — file chưa ký)
+> Apple ID miễn phí: app dùng được **7 ngày**, hết hạn thì mở Sideloadly ký lại.
 
-File `.ipa` không ký sẵn, bạn tự ký bằng Apple ID (miễn phí) rồi cài — chọn một cách:
+### Mac
 
-- **Sideloadly** (máy tính, dễ nhất): cắm iPhone, kéo `.ipa` vào, nhập Apple ID → Start. <https://sideloadly.io>
-- **AltStore** / **ESign**: cài thẳng trên máy, chọn file `.ipa`.
-
-Apple ID miễn phí dùng được **7 ngày** (hết hạn thì ký lại). Lần đầu mở: **Cài đặt → Cài đặt chung → VPN & Quản lý thiết bị** → tin cậy hồ sơ của bạn.
-
-### Dùng lần đầu (điện thoại)
-
-1. **Thêm máy PX5:** bật Remote Play trên máy, nhập **mã PIN** vào app (chỉ làm một lần).
-2. **Chọn game:** từ thư viện game mẫu hoặc nhập tên game.
-3. **Key dịch (khuyến nghị):** ⚙ → *AI* → dán **Gemini API key miễn phí** (<https://aistudio.google.com/apikey>). Không có key thì dùng Google dịch.
-4. **Kết nối & bắt đầu** để vừa chơi vừa hiện phụ đề, hoặc **Chỉ xem** để đọc lại cốt truyện / phụ đề đã lưu.
-
----
-
-## Cài trên macOS
-
-1. Giải nén file `.zip`, kéo **Subly.app** vào thư mục **Applications**.
-2. Mở **Terminal** (Launchpad → Khác → Terminal), dán lệnh dưới rồi bấm Enter:
+1. Giải nén, kéo **Subly.app** vào thư mục **Applications**.
+2. Mở **Terminal**, dán lệnh này rồi bấm Enter (app chưa được Apple duyệt nên macOS chặn, báo *"đã bị hỏng"* hoặc *"không thể mở"*):
 
    ```sh
    xattr -dr com.apple.quarantine /Applications/Subly.app
    ```
 
-   App ký bằng chứng chỉ riêng, chưa notarize nên macOS chặn với thông báo *"không thể mở"* hoặc *"đã bị hỏng"* — lệnh này gỡ cờ chặn đó. Vẫn không mở được thì chạy `xattr -cr /Applications/Subly.app`.
-   Không muốn dùng Terminal: mở app một lần (bị chặn), rồi vào **Cài đặt hệ thống → Quyền riêng tư & Bảo mật**, kéo xuống bấm **Vẫn mở**.
-3. Mở Subly. Khi app hỏi quyền **Ghi màn hình**, hãy cho phép, rồi thoát hẳn app và mở lại.
-4. Các bản sau app tự cập nhật trong chính app.
+3. Mở Subly, cho phép quyền **Ghi màn hình** khi được hỏi, rồi thoát hẳn app và mở lại.
+
+## Cách dùng
+
+### 1. Cài app lên TV
+
+TV và điện thoại / máy tính phải **chung mạng Wi-Fi**. Trong Subly bấm **nút TV** ở góc trên → chọn loại TV (**Samsung**, **LG** hoặc **Android TV**) → **Cài lên TV**. Làm theo hướng dẫn hiện trong app (bật chế độ nhà phát triển trên TV, nhập IP của TV). Chỉ cần cài một lần.
+
+### 2. Chuẩn bị 2 tài khoản PSN
+
+<p align="center"><img src="docs/images/hai-tai-khoan.svg" alt="Tài khoản chính để chơi bằng tay cầm, tài khoản phụ để Remote Play trong Subly đọc phụ đề" width="900"></p>
+
+- **Tài khoản chính:** tài khoản bạn vẫn dùng để chơi, cầm tay cầm chơi như bình thường.
+- **Tài khoản phụ:** tạo thêm một tài khoản PSN (miễn phí), đăng nhập vào máy PX5. Tài khoản này chỉ dùng cho **Remote Play trong Subly** để app đọc phụ đề.
+
+Trong Subly bấm **Thêm máy PX5** và đăng ký bằng **tài khoản phụ**: trên máy PX5 đăng nhập tài khoản phụ, vào **Settings → System → Remote Play → Link Device** lấy **mã PIN**, rồi nhập mã PIN và PSN Account ID của tài khoản phụ vào app. Chỉ làm một lần.
+
+### 3. Chơi
+
+1. Chọn game trong danh sách game mẫu (hoặc nhập tên game).
+2. Bấm **Kết nối & bắt đầu**.
+3. Mở app **SublyTV** trên TV, chọn cổng HDMI của máy PX5 rồi chơi bằng tài khoản chính. Phụ đề tiếng Việt hiện trên TV.
 
 ## Hỗ trợ
 
-App miễn phí. Cần hỗ trợ cài đặt, liên hệ Telegram **[@subly_ps](https://t.me/subly_ps)** hoặc **@lipnguyen**.
+Cần hỗ trợ cài đặt, liên hệ Telegram **[@subly_ps](https://t.me/subly_ps)**. Các bản cũ: xem mục [Releases](https://github.com/subly-ps/subly-releases/releases).
