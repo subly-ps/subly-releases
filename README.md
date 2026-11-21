@@ -6,6 +6,39 @@ Chơi game trên máy **PX5**, phụ đề được dịch sang tiếng Việt v
 
 <h3 align="center">👉 <a href="https://www.facebook.com/profile.php?id=61596415627752">Page Facebook: facebook.com/profile.php?id=61596415627752</a></h3>
 
+## Tính năng nổi bật
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Sẵn nhiều game đã việt hóa
+Nhiều game có sẵn bản việt hóa của cộng đồng. Câu thoại có sẵn bản dịch thì hiện ngay, **không tốn token AI**.
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Tiết kiệm token
+Câu nào đã dịch rồi thì dùng lại, câu trùng lặp hay câu không cần dịch thì bỏ qua. Chỉ gửi AI những câu thật sự cần, dùng được cả **key Gemini miễn phí**.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 Tóm tắt cốt truyện
+Tự ghi lại cốt truyện, nhân vật, nhiệm vụ trong lúc chơi. Bỏ game lâu ngày quay lại, đọc tóm tắt là nhớ ngay đang tới đâu.
+
+</td>
+<td width="50%" valign="top">
+
+### 📺 Hiện phụ đề trên mọi TV
+Phụ đề tiếng Việt hiện ngay trên màn hình TV **Samsung, LG, Sony** và các TV **Android TV / Google TV** khác.
+
+</td>
+</tr>
+</table>
+
 <p align="center"><img src="docs/images/cach-dung.svg" alt="Cài app Subly → Cài app lên TV → Chơi game có phụ đề tiếng Việt" width="900"></p>
 
 ## Tải về
