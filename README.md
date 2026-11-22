@@ -47,9 +47,9 @@ Chọn bản cho thiết bị của bạn. Chỉ cần cài **một** trong các
 
 | Thiết bị | Tải về | Lưu ý khi cài |
 |---|---|---|
-| 🤖 **Android** | [**Tải Subly-android-v0.1.21.apk**](https://github.com/subly-ps/subly-releases/releases/download/android-v0.1.21/Subly-android-v0.1.21.apk) | Mở file, cho phép **cài từ nguồn này** → Cài đặt |
-| 📱 **iPhone / iPad** | [**Tải Subly-ios-v0.1.22-unsigned.ipa**](https://github.com/subly-ps/subly-releases/releases/download/ios-v0.1.22/Subly-ios-v0.1.22-unsigned.ipa) | Cài bằng **[Sideloadly](https://sideloadly.io)**, xem [bên dưới](#iphone--ipad) |
-| 🍎 **Mac** | [**Tải Subly-macOS-v0.3.31.zip**](https://github.com/subly-ps/subly-releases/releases/download/mac-v0.3.31/Subly-macOS-v0.3.31.zip) | Phải chạy **1 lệnh Terminal**, xem [bên dưới](#mac) |
+| 🤖 **Android** | [**Tải Subly-android-v0.1.22.apk**](https://github.com/subly-ps/subly-releases/releases/download/android-v0.1.22/Subly-android-v0.1.22.apk) | Mở file, cho phép **cài từ nguồn này** → Cài đặt |
+| 📱 **iPhone / iPad** | [**Tải Subly-ios-v0.1.23-unsigned.ipa**](https://github.com/subly-ps/subly-releases/releases/download/ios-v0.1.23/Subly-ios-v0.1.23-unsigned.ipa) | Cài bằng **[Sideloadly](https://sideloadly.io)**, xem [bên dưới](#iphone--ipad) |
+| 🍎 **Mac** | [**Tải Subly-macOS-v0.3.32.zip**](https://github.com/subly-ps/subly-releases/releases/download/mac-v0.3.32/Subly-macOS-v0.3.32.zip) | Phải chạy **1 lệnh Terminal**, xem [bên dưới](#mac) |
 | 🪟 **Windows** | [**Tải Subly-Windows-v0.3.15.zip**](https://github.com/subly-ps/subly-releases/releases/download/win-v0.3.15/Subly-Windows-v0.3.15.zip) | Giải nén, mở `Subly.exe`. SmartScreen chặn thì bấm **More info → Run anyway** |
 
 Máy tính (Mac, Windows) tự cập nhật bản mới trong app. Điện thoại: app báo có bản mới thì tải lại ở trang này.
