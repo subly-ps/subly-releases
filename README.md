@@ -6,6 +6,10 @@ Chơi game trên máy **PX5**, phụ đề được dịch sang tiếng Việt v
 
 <h3 align="center">👉 <a href="https://www.facebook.com/profile.php?id=61596415627752">Page Facebook: facebook.com/profile.php?id=61596415627752</a></h3>
 
+<h3 align="center">💬 <a href="https://t.me/subly_group">Nhóm Telegram cộng đồng: t.me/subly_group</a></h3>
+
+<h3 align="center">🌐 <a href="https://subly.lipnguyen.id.vn">Trang chủ &amp; tải về: subly.lipnguyen.id.vn</a></h3>
+
 ## Tính năng nổi bật
 
 <table>
@@ -108,4 +112,6 @@ Key Gemini giúp dịch hay và đúng ngữ cảnh hơn, gói miễn phí đủ
 
 ## Hỗ trợ
 
-Cần hỗ trợ cài đặt: nhắn tin **[page Facebook Subly](https://www.facebook.com/profile.php?id=61596415627752)** hoặc Telegram **[@subly_ps](https://t.me/subly_ps)**. Các bản cũ: xem mục [Releases](https://github.com/subly-ps/subly-releases/releases).
+Tham gia **[nhóm Telegram cộng đồng Subly](https://t.me/subly_group)** để hỏi cách cài đặt, báo lỗi, xin việt hóa game và nhận thông báo bản mới.
+
+Nhắn riêng: **[page Facebook Subly](https://www.facebook.com/profile.php?id=61596415627752)** hoặc Telegram **[@subly_ps](https://t.me/subly_ps)**. Các bản cũ: xem mục [Releases](https://github.com/subly-ps/subly-releases/releases).
