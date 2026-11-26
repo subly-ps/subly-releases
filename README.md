@@ -2,13 +2,17 @@
 
 Chơi game trên máy **PX5**, phụ đề được dịch sang tiếng Việt và hiện **ngay trên TV**. App miễn phí.
 
-<p align="center"><a href="https://www.facebook.com/profile.php?id=61596415627752"><img src="docs/images/facebook.svg" alt="Theo dõi page Facebook Subly" width="560"></a></p>
+<p align="center"><a href="https://www.facebook.com/groups/4551672478426104"><img src="docs/images/facebook.svg" alt="Tham gia nhóm Facebook Subly" width="560"></a></p>
 
-<h3 align="center">👉 <a href="https://www.facebook.com/profile.php?id=61596415627752">Page Facebook: facebook.com/profile.php?id=61596415627752</a></h3>
+<h3 align="center">👉 <a href="https://www.facebook.com/groups/4551672478426104">Nhóm Facebook: facebook.com/groups/4551672478426104</a></h3>
 
 <h3 align="center">💬 <a href="https://t.me/subly_group">Nhóm Telegram cộng đồng: t.me/subly_group</a></h3>
 
 <h3 align="center">🌐 <a href="https://subly.lipnguyen.id.vn">Trang chủ &amp; tải về: subly.lipnguyen.id.vn</a></h3>
+
+<h3 align="center">▶️ <a href="https://subly.lipnguyen.id.vn/huong-dan#video">Video hướng dẫn có thuyết minh (máy tính &amp; iPhone)</a></h3>
+
+<h3 align="center">📱 <a href="https://apps.apple.com/vn/app/subly-d%E1%BB%8Bch-game-console/id6838172772">Tải Subly cho iPhone / iPad trên App Store</a></h3>
 
 ## Tính năng nổi bật
 
@@ -52,7 +56,7 @@ Chọn bản cho thiết bị của bạn. Chỉ cần cài **một** trong các
 | Thiết bị | Tải về | Lưu ý khi cài |
 |---|---|---|
 | 🤖 **Android** | [**Tải Subly-android-v0.1.26.apk**](https://github.com/subly-ps/subly-releases/releases/download/android-v0.1.26/Subly-android-v0.1.26.apk) | Mở file, cho phép **cài từ nguồn này** → Cài đặt |
-| 📱 **iPhone / iPad** | [**Tải Subly-ios-v0.1.26-unsigned.ipa**](https://github.com/subly-ps/subly-releases/releases/download/ios-v0.1.26/Subly-ios-v0.1.26-unsigned.ipa) | Cài bằng **[Sideloadly](https://sideloadly.io)**, xem [bên dưới](#iphone--ipad) |
+| 📱 **iPhone / iPad** | [**Tải Subly-ios-v0.1.26-unsigned.ipa**](https://github.com/subly-ps/subly-releases/releases/download/ios-v0.1.26/Subly-ios-v0.1.26-unsigned.ipa) | **[Tải trên App Store](https://apps.apple.com/vn/app/subly-d%E1%BB%8Bch-game-console/id6838172772)** (khuyên dùng). Hoặc cài file .ipa bằng Sideloadly, xem [bên dưới](#iphone--ipad) |
 | 🍎 **Mac** | [**Tải Subly-macOS-v0.3.35.zip**](https://github.com/subly-ps/subly-releases/releases/download/mac-v0.3.35/Subly-macOS-v0.3.35.zip) | Phải chạy **1 lệnh Terminal**, xem [bên dưới](#mac) |
 | 🪟 **Windows** | [**Tải Subly-Windows-v0.3.18.zip**](https://github.com/subly-ps/subly-releases/releases/download/win-v0.3.18/Subly-Windows-v0.3.18.zip) | Giải nén, mở `Subly.exe`. SmartScreen chặn thì bấm **More info → Run anyway** |
 
@@ -60,7 +64,9 @@ Máy tính (Mac, Windows) tự cập nhật bản mới trong app. Điện tho�
 
 ### iPhone / iPad
 
-File `.ipa` chưa ký, cần ký bằng Apple ID của bạn để cài:
+Subly đã có trên **[App Store](https://apps.apple.com/vn/app/subly-d%E1%BB%8Bch-game-console/id6838172772)**: mở link, bấm **Nhận** là cài xong, app tự cập nhật.
+
+Không tải được từ App Store? Dùng file `.ipa` (chưa ký), ký bằng Apple ID của bạn để cài:
 
 1. Cài **[Sideloadly](https://sideloadly.io)** trên máy tính (Windows hoặc Mac), cắm iPhone vào máy tính.
 2. Kéo file `.ipa` vào Sideloadly, nhập Apple ID → **Start**.
@@ -114,4 +120,4 @@ Key Gemini giúp dịch hay và đúng ngữ cảnh hơn, gói miễn phí đủ
 
 Tham gia **[nhóm Telegram cộng đồng Subly](https://t.me/subly_group)** để hỏi cách cài đặt, báo lỗi, xin việt hóa game và nhận thông báo bản mới.
 
-Nhắn riêng: **[page Facebook Subly](https://www.facebook.com/profile.php?id=61596415627752)** hoặc Telegram **[@subly_ps](https://t.me/subly_ps)**. Các bản cũ: xem mục [Releases](https://github.com/subly-ps/subly-releases/releases).
+Cộng đồng trên **[nhóm Facebook Subly](https://www.facebook.com/groups/4551672478426104)**. Nhắn riêng: Telegram **[@subly_ps](https://t.me/subly_ps)**. Các bản cũ: xem mục [Releases](https://github.com/subly-ps/subly-releases/releases).
