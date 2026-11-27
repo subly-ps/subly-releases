@@ -56,23 +56,15 @@ Chọn bản cho thiết bị của bạn. Chỉ cần cài **một** trong các
 | Thiết bị | Tải về | Lưu ý khi cài |
 |---|---|---|
 | 🤖 **Android** | [**Tải Subly-android-v0.1.27.apk**](https://github.com/subly-ps/subly-releases/releases/download/android-v0.1.27/Subly-android-v0.1.27.apk) | Mở file, cho phép **cài từ nguồn này** → Cài đặt |
-| 📱 **iPhone / iPad** | [**Tải Subly-ios-v0.1.26-unsigned.ipa**](https://github.com/subly-ps/subly-releases/releases/download/ios-v0.1.26/Subly-ios-v0.1.26-unsigned.ipa) | **[Tải trên App Store](https://apps.apple.com/vn/app/subly-d%E1%BB%8Bch-game-console/id6838172772)** (khuyên dùng). Hoặc cài file .ipa bằng Sideloadly, xem [bên dưới](#iphone--ipad) |
+| 📱 **iPhone / iPad** | [**Tải trên App Store**](https://apps.apple.com/vn/app/subly-d%E1%BB%8Bch-game-console/id6838172772) | Mở link, bấm **Nhận** là cài xong, app tự cập nhật qua App Store |
 | 🍎 **Mac** | [**Tải Subly-macOS-v0.3.36.zip**](https://github.com/subly-ps/subly-releases/releases/download/mac-v0.3.36/Subly-macOS-v0.3.36.zip) | Phải chạy **1 lệnh Terminal**, xem [bên dưới](#mac) |
 | 🪟 **Windows** | [**Tải Subly-Windows-v0.3.18.zip**](https://github.com/subly-ps/subly-releases/releases/download/win-v0.3.18/Subly-Windows-v0.3.18.zip) | Giải nén, mở `Subly.exe`. SmartScreen chặn thì bấm **More info → Run anyway** |
 
-Máy tính (Mac, Windows) tự cập nhật bản mới trong app. Điện thoại: app báo có bản mới thì tải lại ở trang này.
+Máy tính (Mac, Windows) tự cập nhật bản mới trong app. iPhone / iPad tự cập nhật qua App Store. Android: app báo có bản mới thì tải lại ở trang này.
 
 ### iPhone / iPad
 
 Subly đã có trên **[App Store](https://apps.apple.com/vn/app/subly-d%E1%BB%8Bch-game-console/id6838172772)**: mở link, bấm **Nhận** là cài xong, app tự cập nhật.
-
-Không tải được từ App Store? Dùng file `.ipa` (chưa ký), ký bằng Apple ID của bạn để cài:
-
-1. Cài **[Sideloadly](https://sideloadly.io)** trên máy tính (Windows hoặc Mac), cắm iPhone vào máy tính.
-2. Kéo file `.ipa` vào Sideloadly, nhập Apple ID → **Start**.
-3. Trên iPhone: **Cài đặt → Cài đặt chung → VPN & Quản lý thiết bị** → tin cậy Apple ID vừa dùng.
-
-> Apple ID miễn phí: app dùng được **7 ngày**, hết hạn thì mở Sideloadly ký lại.
 
 ### Mac
 
